@@ -1,0 +1,10 @@
+* {
+padding:0;
+margin:0;
+}
+.head {
+  dispaly: block;
+  width: 1000px;
+  heigth: 150px;
+  background:  #C0C0C0;
+}
